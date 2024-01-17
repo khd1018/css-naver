@@ -1,0 +1,14 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    
+}
+#wrap{
+    text-align: center;
+}
+#wrap-center{
+    display: inline-block;
+    background-color: green;
+    width: 1280px;
+    height: 2646px;
+}
